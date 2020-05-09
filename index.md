@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Pretty Sheet Reporter
 
-You can use the [editor on GitHub](https://github.com/jonathanbetz/pretty-sheet-reporting/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Pretty Sheet Reporter](TODO:link) makes it simple to turn large amounts of dense text data in Google Sheets into cleanly-formatted Google Docs that enable simpler review and discussion.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Pretty Sheet Reporter is most helpful for Sheets that have a large number of rows with long blocks of text - it can be hard to see everything you need to at once in Sheets, but a Doc can make it much easier to navigate all your data. 
 
-### Markdown
+### Installation
+#### Install the Pretty Sheet Reporter Add-on
+Install the addon by clicking on the Add-ons menu in Google Sheets and searching for the Pretty Sheet Reporting add-on in the list of available add-ons.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Pretty Sheet Reporter will then be installed and a dedicated menu will appear in the Add-ons menu.
 
-```markdown
-Syntax highlighted code block
+You can then launch the add-on from the Add-ons menu in Google Sheets by clicking on Report in the Pretty Sheet Reporting submenu.
 
-# Header 1
-## Header 2
-### Header 3
+### Your First Report
+* Each row in your sheet will get its own page
+* The header for each page will be the data in the first column of the row
+* All the frozen columns will appear directly below the header, without labels
+* All other columns will appear in a simple layout that labels each of the values with the corresponding label from the sheet. 
+* Any hidden rows or columns will be omitted from the report.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jonathanbetz/pretty-sheet-reporting/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Support 
+TODO
