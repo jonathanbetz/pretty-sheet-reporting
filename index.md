@@ -4,6 +4,13 @@
 
 Pretty Sheet Reporter is most helpful for Sheets that have a large number of rows with long blocks of text - it can be hard to see everything you need to at once in Sheets, but a Doc can make it much easier to navigate all your data. 
 
+Turn this:
+![Data sheet](https://github.com/jonathanbetz/pretty-sheet-reporting/blob/master/Muppets%20Data.png "Data sheet")
+
+Into this:
+![Pretty Report](https://github.com/jonathanbetz/pretty-sheet-reporting/blob/master/Muppets%20Report.png "Data report")
+
+
 ### Installation
 #### Install the Pretty Sheet Reporter Add-on
 Install the addon by clicking on the Add-ons menu in Google Sheets and searching for the Pretty Sheet Reporting add-on in the list of available add-ons.
