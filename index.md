@@ -5,10 +5,10 @@
 Pretty Sheet Reporter is most helpful for Sheets that have a large number of rows with long blocks of text - it can be hard to see everything you need to at once in Sheets, but a Doc can make it much easier to navigate all your data. 
 
 Turn this:
-![Data sheet](https://github.com/jonathanbetz/pretty-sheet-reporting/blob/master/Muppets%20Data.png "Data sheet")
+![Data sheet]("Muppets%20Data.png")
 
 Into this:
-![Pretty Report](https://github.com/jonathanbetz/pretty-sheet-reporting/blob/master/Muppets%20Report.png "Data report")
+![Pretty Report]("Muppets%20Report.png")
 
 
 ### Installation
